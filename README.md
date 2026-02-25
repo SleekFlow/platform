@@ -1,6 +1,14 @@
 # SleekFlow Platform
 
 ## IP Addresses
+webhook bridge IP eas:20.189.94.36
+blob proxy hub VNET: 20.2.50.254
+high performance gateway for SNAT: 
+104.208.89.228
+20.51.165.222
+20.212.52.153
+20.203.125.202
+137.117.210.91
 
 ### East Asia
 
